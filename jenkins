@@ -34,7 +34,7 @@ pipeline {
     }
  post {
         always {
-            echo 'Auto Jenkinstyle 63070156 Wannasa Chonchoochart'
+            echo 'Auto Jenkinstyle 63070156 Wannasa Chonchoochart bye!!'
         }
     }
 }
